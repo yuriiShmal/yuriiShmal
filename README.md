@@ -8,7 +8,6 @@ Although my coding experience started with HTML, I quickly found that I preferre
 
 *   🌍  I'm based in Pittsburgh PA
 *   ✉️  You can contact me at [yshmal@andrew.cmu.edu](mailto:yshmal@andrew.cmu.edu)
-*   🧠  I'm learning C
 *   🤝  I'm open to collaborating on interesting Python, C, or Java projects
 
 ### Skills 
