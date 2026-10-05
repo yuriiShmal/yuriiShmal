@@ -61,6 +61,9 @@ Implemented core components of a relational database system, working with storag
   </a>
 </p>
 
+---
+
+> Building from the metal up.
 ## GitHub
 
 <img src="https://github-readme-stats.vercel.app/api?username=yuriiShmal&show_icons=true&hide_border=true&theme=transparent" alt="Yurii's GitHub stats" />
