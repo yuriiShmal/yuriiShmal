@@ -1,30 +1,66 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yurii Shmal
-===================================================================================================================================
+# Hi, I'm Yurii Shmal 👋
 
-CMU SCS Undergrad
------------------
+### Computer Science @ Carnegie Mellon University
 
-Although my coding experience started with HTML, I quickly found that I preferred working with core languages data structures and algorithms.
+I'm a Computer Science student at Carnegie Mellon University's School of Computer Science with a concentration in **Computer Systems**.
 
-*   🌍  I'm based in Pittsburgh PA
-*   ✉️  You can contact me at [yshmal@andrew.cmu.edu](mailto:yshmal@andrew.cmu.edu)
-*   🤝  I'm open to collaborating on interesting Python, C, or Java projects
+I'm especially interested in **systems programming, backend development, databases, networking, and software infrastructure**. I enjoy working close to the systems layer in C as well as building practical applications and web services with Python, Java, TypeScript, and modern web technologies.
 
-### Skills 
+- 📍 Based in South Florida
+- 🎓 Computer Science @ Carnegie Mellon University
+- 💻 Interested in systems, backend, infrastructure, and full-stack development
+- 🌐 Portfolio: [yuriishmal.site](https://yuriishmal.site/)
+- ✉️ [yshmal@andrew.cmu.edu](mailto:yshmal@andrew.cmu.edu)
+- 🤝 Open to software engineering opportunities and interesting projects
+
+## Technologies
+
+### Languages
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,php,sql" />
 </p>
 
-### Socials
+### Tools & Technologies
 
-<p align="left"> <a href="https://www.github.com/yuriiShmal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/Yurii Shmal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-               
-### Badges
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,git,docker,react,nextjs,nodejs,postgres,mysql,wordpress,cloudflare" />
+</p>
 
-<a href="http://www.github.com/yuriiShmal"><img src="https://github-readme-stats.vercel.app/api?username=yuriiShmal&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="yuriiShmal's GitHub stats" /></a>
-<a href="http://www.github.com/yuriiShmal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yuriiShmal&stroke=ffffff&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="http://www.github.com/yuriiShmal"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=yuriiShmal&bg_color=1c1917&color=ffffff&line=84cc16&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+## Areas of Interest
+
+- Operating systems and low-level systems programming
+- Backend and infrastructure engineering
+- Database systems
+- Computer networks and security
+- Concurrent and multithreaded programming
+- Full-stack web development
+
+## Selected Work
+
+### 🖥️ Operating System Kernel
+Implemented major components of an x86 teaching operating system in **C**, including virtual memory, process and thread management, scheduling, synchronization, exception handling, system calls, and console infrastructure.
+
+### 🌐 Personal Portfolio
+Designed and deployed my personal portfolio and project site at **[yuriishmal.site](https://yuriishmal.site/)**, using modern web tooling and Cloudflare infrastructure.
+
+### 🗄️ Database Systems
+Implemented core components of a relational database system, working with storage, indexing, query execution, and concurrency-control concepts.
+
+> More projects are available on my [portfolio](https://yuriishmal.site/) and in my repositories below.
+
+## Connect with Me
+
+<p align="left">
+  <a href="https://github.com/yuriiShmal">
+    <img src="https://skillicons.dev/icons?i=github" width="40" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+</p>
+
+## GitHub
+
+<img src="https://github-readme-stats.vercel.app/api?username=yuriiShmal&show_icons=true&hide_border=true&theme=transparent" alt="Yurii's GitHub stats" />
