@@ -56,7 +56,7 @@ Implemented core components of a relational database system, working with storag
     <img src="https://skillicons.dev/icons?i=github" width="40" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG/">
+  <a href="https://www.linkedin.com/in/yurii-shmal-1a5800245/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
 </p>
